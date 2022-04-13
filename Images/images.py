@@ -5,3 +5,4 @@ print(a.size,a.filename,a.format_description)
 a.show()
 b=a.rotate(180)
 b.show()
+#the end
